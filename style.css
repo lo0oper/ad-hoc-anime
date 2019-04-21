@@ -1,0 +1,47 @@
+body {
+    background: linear-gradient(black,red);
+    font-family: "Segoe UI",Arial,sans-serif;
+    margin: 10px;
+    border: 12 px black;
+    padding:15px;
+    color: burlywood;
+}
+ul{
+    font-family: "Segoe UI",Arial,sans-serif;
+     text-align: left;
+}
+
+.heading{
+    color:whitesmoke;
+    font-size: 20px;
+    font-family: "Segoe UI",Arial,sans-serif; 
+    padding:10px; 
+}
+.topheading{
+    color:white;
+    font-size: 30px;
+    font-family: "Segoe UI",Arial,sans-serif; 
+    padding:2px;
+    display:inline-block ;
+    text-align: center; 
+    margin: 0 ;
+    background-image: url("all.jpg");
+    width: 100%;
+    
+}
+.signofline{
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto;
+}
+.firstpara{
+    color: burlywood;
+}
+.box{
+    postion:relative;
+    display: inline-block;
+    /*background:linear-gradient(white,red);*/
+    text-decoration-color: aliceblue;
+    }
+
+
